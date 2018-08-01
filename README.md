@@ -8,5 +8,5 @@ how can you use them?
 * http://th.ai/wiki 404
 * http://tiny.cc/vocaltext plaintext voice sync
 * http://tiny.cc/i18n international vocaltext
-* http://tiny.cc/pix8 sort visuals
+* http://tiny.cc/pix8 sort visuals chrome extension
 * http://youtu.be/QA-9QK_WkV0 GIF SECURITY
