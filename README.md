@@ -4,6 +4,12 @@ http://tiny.cc/gifspec containers:
 * applications
 * comments
 
+![gif remix](https://ggif.co/cl8/cl8.gif)
+
+:)
+
+![gif EXTEND](https://i.imgur.com/tF0x4u2.gif)
+
 ##extend, how?
 * animation (done 1989) 
 * hash < self certify immutable
@@ -11,6 +17,7 @@ http://tiny.cc/gifspec containers:
 * vocaltext
 * wiki
 * tag
+* bookmark
 * pix (visual context)
 * comment
 * social
@@ -19,6 +26,8 @@ http://tiny.cc/gifspec containers:
 * sort link lists
 * translate
 * ?
+
+![wiki pix8](http://i.imgur.com/ZaJ8ZnH.gif)
 
 ##demos
 * http://th.ai/audio
