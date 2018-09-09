@@ -1,8 +1,8 @@
 ##GIF
 http://tiny.cc/gifspec containers:
-* 1) plaintext/data
-* 2) applications
-* 3) comments
+* plaintext/data
+* applications
+* comments
 
 ##extend, how?
 * animation (done 1989) 
